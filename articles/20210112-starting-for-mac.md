@@ -1,8 +1,8 @@
 ---
 title: "★初めてのMac★インストールしてよかったもの★"
-emoji: "★"
+emoji: "📷"
 type: "tech" # tech: 技術記事 / idea: アイデア
-topics: ["mac", "windows", "shiftit", "HomeBrew", "Git", "VSCode"]
+topics: ["mac", "windows", "shiftit", "HomeBrew"]
 published: true
 ---
 
