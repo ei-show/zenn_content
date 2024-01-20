@@ -88,7 +88,7 @@ Mask variableだけチェック入れておく。
 
 moduleレジストリのciを次のように追記する。  
 
-```yaml:.bitlab-ci.yml
+```yaml:.gitlab-ci.yml
 
 tfdocs:
   stage: build
